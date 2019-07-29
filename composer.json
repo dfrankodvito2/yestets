@@ -1,0 +1,25 @@
+{
+    "name": "pokemon-go-spoofing/pokemon-go-spoofing-and-joystick-tricks-ios",
+    "description": "Welcome to Pokemon Go Spoofer + Pokemon Go Joystick Hack +Pokemon Go GPS Spoofing IOS Get Install ++ Tweaked Apps Without Jailbreak No Computer Pokemon Go Joystick Hack ,Pokemon Go Spoofer with Joystick for iOS...Pokemon Go Hack: GPS Spoofing - New Pokemon Go GPS Spoofer Guide Hello fellow Pokemon Go players  ",
+    "homepage": "https://github.com/fcjc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GET Pokemon Go Spoofer + Pokemon Go Joystick Hack Now",
+            "homepage": "https://appsinject.com/pokemon/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+
+}
